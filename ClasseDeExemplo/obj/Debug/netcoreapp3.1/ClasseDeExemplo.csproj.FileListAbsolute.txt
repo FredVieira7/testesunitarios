@@ -1,0 +1,10 @@
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Testes\ClasseDeExemplo\bin\Debug\netcoreapp3.1\ClasseDeExemplo.deps.json
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Testes\ClasseDeExemplo\bin\Debug\netcoreapp3.1\ClasseDeExemplo.dll
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Testes\ClasseDeExemplo\bin\Debug\netcoreapp3.1\ClasseDeExemplo.pdb
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Testes\ClasseDeExemplo\obj\Debug\netcoreapp3.1\ClasseDeExemplo.csproj.AssemblyReference.cache
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Testes\ClasseDeExemplo\obj\Debug\netcoreapp3.1\ClasseDeExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Testes\ClasseDeExemplo\obj\Debug\netcoreapp3.1\ClasseDeExemplo.AssemblyInfoInputs.cache
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Testes\ClasseDeExemplo\obj\Debug\netcoreapp3.1\ClasseDeExemplo.AssemblyInfo.cs
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Testes\ClasseDeExemplo\obj\Debug\netcoreapp3.1\ClasseDeExemplo.csproj.CoreCompileInputs.cache
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Testes\ClasseDeExemplo\obj\Debug\netcoreapp3.1\ClasseDeExemplo.dll
+C:\Users\fredv\OneDrive\Documentos\ProjetosLPs\ProjetosVSCommunity\Testes\ClasseDeExemplo\obj\Debug\netcoreapp3.1\ClasseDeExemplo.pdb
